@@ -1,0 +1,13 @@
+1. write the script
+    - get the stocks invested from robinhood api
+    - get the news for each individual stock - most latest.
+    - generate summary for each individual stock
+    - Make a report out of those summaries
+    - Send the report to the email
+2. schedule to run the script each day
+
+
+APIs needed:
+1. generative model api
+2. stock news api - sonar api
+

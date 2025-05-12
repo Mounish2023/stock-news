@@ -1,0 +1,5 @@
+requests
+schedule
+python-dotenv
+openai>=1.1.0
+robin_stocks

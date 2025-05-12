@@ -1,10 +1,6 @@
-# stockNews
-Get daily stock news report based on your positions in your robinhood account
-
-
 # Daily Stock Report Generator - Setup Guide
 
-This script fetches your Robinhood stock positions, gets the latest news for each stock, generates summaries using OpenAI, and emails you a daily report.
+This script fetches your Robinhood stock positions, gets the latest news for each stock, generates summaries using Claude, and emails you a daily report.
 
 ## Setup Instructions
 
